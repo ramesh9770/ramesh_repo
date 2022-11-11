@@ -1,3 +1,0 @@
-Public void main {
-nnnnnnnnnnnnnnnnnnnnnnnn
-}
